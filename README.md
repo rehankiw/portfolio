@@ -9,7 +9,7 @@ Visit my portfolio at: [https://rehankiw.github.io/portfolio/](https://rehankiw.
 ## 🛠 Technologies Used
 
 - HTML5
-- CSS3
+- CSS
 - JavaScript
 - Bootstrap 5
 
