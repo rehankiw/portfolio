@@ -140,40 +140,40 @@ img {
 }
 
 .text-container {
-  position: relative;
-  overflow: hidden;
-  height: auto;
-  width: 100%;
-}
-
-.text-switch {
-  position: relative;
-  margin: 0;
-}
-
-.text-default,
-.text-hover {
-  display: block;
-  transition: transform 0.3s ease-in-out, opacity 0.3s ease-in-out;
-}
-
-.text-hover {
-  position: absolute;
-  top: 0;
-  left: 0;
-  transform: translateY(100%);
-  opacity: 0;
-}
-
-.text-switch:hover .text-default {
-  transform: translateY(-100%);
-  opacity: 0;
-}
-
-.text-switch:hover .text-hover {
-  transform: translateY(0);
-  opacity: 1;
-}
+    position: relative;
+    overflow: hidden;
+    height: auto;
+    width: 100%;
+  }
+  
+  .text-switch {
+    position: relative;
+    margin: 0;
+  }
+  
+  .text-default,
+  .text-hover {
+    display: block;
+    transition: transform 0.3s ease-in-out, opacity 0.3s ease-in-out;
+  }
+  
+  .text-hover {
+    position: absolute;
+    top: 0;
+    left: 0;
+    transform: translateY(100%);
+    opacity: 0;
+  }
+  
+  .text-switch:hover .text-default {
+    transform: translateY(-100%);
+    opacity: 0;
+  }
+  
+  .text-switch:hover .text-hover {
+    transform: translateY(0);
+    opacity: 1;
+  }
 
 .link-hover {
     display: inline-block;
