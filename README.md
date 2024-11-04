@@ -1,4 +1,4 @@
-# Rehan Kiw's Portfolio
+# Rehan's Portfolio
 
 Welcome to the repository of my personal portfolio website. This site showcases my skills, projects, and experiences as an Informatics student and aspiring tech professional.
 
