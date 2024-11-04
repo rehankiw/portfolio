@@ -47,14 +47,14 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 📄 Copyright and License
 
-© 2024 [Your Name/Your Company Name]. All rights reserved.
+© 2024 rehanamrllh. All rights reserved.
 
 This website is based on a template purchased from FlaTheme. The original template is © 2024 FlaTheme.
 
-Modifications and customizations to the original template, as well as all content, are © 2024 [Your Name/Your Company Name].
+Modifications and customizations to the original template, as well as all content, are © 2024 rehanamrllh.
 
 ### Template License
 The purchased template from FlaTheme is subject to FlaTheme's licensing terms. For more information about the original template license, please visit [FlaTheme's website](https://flatheme.com) or refer to the license documentation provided with your purchase.
 
 ### Content License
-All custom content, including text, images, and modifications to the original template, is the property of [Your Name/Your Company Name] and may not be reproduced without permission.
+All custom content, including text, images, and modifications to the original template, is the property of rehanamrllh and may not be reproduced without permission.
