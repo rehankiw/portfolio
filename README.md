@@ -45,12 +45,16 @@ Feel free to reach out to me for any inquiries or collaboration opportunities:
 
 This project is open source and available under the [MIT License](LICENSE).
 
-## 🎨 Theme
+## 📄 Copyright and License
 
-This portfolio uses a theme from FlaTheme.
+© 2024 [Your Name/Your Company Name]. All rights reserved.
 
-© 2024 FlaTheme. All rights reserved.
+This website is based on a template purchased from FlaTheme. The original template is © 2024 FlaTheme.
 
-## 📝 Note
+Modifications and customizations to the original template, as well as all content, are © 2024 [Your Name/Your Company Name].
 
-While the theme is provided by FlaTheme, the content and customizations are my own work. Please respect both the theme's copyright and my personal contributions when using or referencing this project.
+### Template License
+The purchased template from FlaTheme is subject to FlaTheme's licensing terms. For more information about the original template license, please visit [FlaTheme's website](https://flatheme.com) or refer to the license documentation provided with your purchase.
+
+### Content License
+All custom content, including text, images, and modifications to the original template, is the property of [Your Name/Your Company Name] and may not be reproduced without permission.
