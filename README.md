@@ -41,10 +41,6 @@ Feel free to reach out to me for any inquiries or collaboration opportunities:
 - LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/rayhan-amrullah-3a2741328/)
 - GitHub: [@rehankiw](https://github.com/rehankiw)
 
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
 ## 📄 Copyright and License
 
 © 2024 rehanamrllh. All rights reserved.
@@ -52,6 +48,8 @@ This project is open source and available under the [MIT License](LICENSE).
 This website is based on a template purchased from FlaTheme. The original template is © 2024 FlaTheme.
 
 Modifications and customizations to the original template, as well as all content, are © 2024 rehanamrllh.
+
+This project is open source and available under the [MIT License](LICENSE).
 
 ### Template License
 The purchased template from FlaTheme is subject to FlaTheme's licensing terms. For more information about the original template license, please visit [FlaTheme's website](https://flatheme.com) or refer to the license documentation provided with your purchase.
