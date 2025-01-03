@@ -37,8 +37,8 @@ Visit my portfolio at: [https://rehankiw.github.io/portfolio/](https://rehankiw.
 
 Feel free to reach out to me for any inquiries or collaboration opportunities:
 
-- Email: [your.email@example.com](rehanamrllh@gmail.com)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/rayhan-amrullah-3a2741328/)
+- Email: [rehanamrllh@gmail.com](rehanamrllh@gmail.com)
+- LinkedIn: [Rayhan Amrullah](https://www.linkedin.com/in/rayhan-amrullah-3a2741328/)
 - GitHub: [@rehankiw](https://github.com/rehankiw)
 
 ## 📄 Copyright and License
